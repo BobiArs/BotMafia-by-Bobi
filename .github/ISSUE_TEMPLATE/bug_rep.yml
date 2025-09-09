@@ -16,6 +16,7 @@ body:
     attributes:
       label: "Your nickname or username"
       placeholder: "Example, USER_16"
+    validations:
       required: true
 
   - type: textarea
@@ -23,6 +24,7 @@ body:
     attributes:
       label: "Bug description"
       placeholder: "Describe the problem in detail, what exactly happened, steps to reproduce"
+    validations:
       required: true
 
   - type: input
@@ -30,6 +32,7 @@ body:
     attributes:
       label: "Version BotMafia"
       placeholder: "Example, 1.2.3"
+    validations:
       required: true
 
   - type: dropdown
@@ -39,6 +42,7 @@ body:
       options:
         - "Windows"
         - "Linux"
+    validations:
       required: true
 
   - type: textarea

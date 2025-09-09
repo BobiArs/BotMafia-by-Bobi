@@ -34,7 +34,7 @@ Play against **intelligent AI characters** while honing your skills
 > 
 > If you notice any problems or things that should be improved in future updates
 >  
-> Please submit a bug report here: [NEED_FIX](https://github.com/BobiArs/mafia-bot/issues/new?template=bug_rep.yml)
+> Please submit a bug report here: [NEED_FIX](https://github.com/BobiArs/BotMafia-by-Bobi/issues/new?template=bug_rep.yml)
 >   
 > This helps us keep the bot updated and bug - free!
 

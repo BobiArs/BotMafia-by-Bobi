@@ -1,0 +1,43 @@
+name: "💡 Feature request!"
+description: "Submit a feature request or suggestion for BotMafia by Bobi"
+title: "[FEATURE] "
+labels: ["enhancement"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **💡 Suggest a new feature or improvement for BotMafia by Bobi**  
+        Please describe clearly what you would like to see added or improved.
+
+  - type: input
+    id: username
+    attributes:
+      label: "Your nickname or username"
+      placeholder: "Example: USER_16"
+    validations:
+      required: true
+
+  - type: textarea
+    id: feature_description
+    attributes:
+      label: "Feature description"
+      placeholder: "Describe the feature or improvement in detail"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priority / Importance"
+      options:
+        - "Low"
+        - "Medium"
+        - "High"
+
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: "Additional information"
+      placeholder: "Any other notes, references, or examples"

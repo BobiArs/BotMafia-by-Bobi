@@ -20,10 +20,10 @@ Play against **intelligent AI characters** while honing your skills
 **A license is required for use**, which can be purchased at the link below
 (for now you can write to me on social networks, then I'll add a link to the marketplace!!):
 
-"Telegram:" ![MY_TG](https://t.me/BobiITnew)
+📩**Telegram:** [MY_TG](https://t.me/BobiITnew)
 
 
-"WhatsApp:" ![MY_WA](https://wa.me/0668896540)
+📱**WhatsApp:** [MY_WA](https://wa.me/0668896540)
 
 
 > [!WARNING]

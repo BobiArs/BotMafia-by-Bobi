@@ -26,7 +26,7 @@ Play against **intelligent AI characters** while honing your skills
 > This is the only place where you will find **official download files** BotMafia by Bobi
 
 > [!TIP]
-> 💬 Do you have any questions or suggestions??
+> 💬 Do you have a suggestion on how to make the game better?
 >
 > You're welcome - > [OFFERS](https://github.com/BobiArs/BotMafia-by-Bobi/issues/new?template=offers.yml) !
 

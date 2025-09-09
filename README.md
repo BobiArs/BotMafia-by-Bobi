@@ -32,7 +32,6 @@
 
 
 ![Python](https://www.python.org/community/logos/)
-![ChatGPT](https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg)
 ![ChatGPT](https://openai.com/favicon.ico)
 ![Gemini](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Google_Gemini_logo.svg/344px-Google_Gemini_logo.svg.png)
 ![DeepSeek](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DeepSeek_logo.svg/512px-DeepSeek_logo.svg.png)

@@ -1,4 +1,7 @@
- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="150" style="margin: 0 20px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="150" style="margin: 0 20px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 # 🎭 BotMafia by Bobi
 

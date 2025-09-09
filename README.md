@@ -1,6 +1,8 @@
 # 🎭 BotMafia by Bobi
 
 ![Python](https://img.shields.io/badge/python-3.13%2B-blue.svg)
+[![Downloads](https://img.shields.io/github/downloads/username/mafia-bot/total)](https://github.com/username/mafia-bot/releases)
+[![Releases](https://img.shields.io/github/v/release/username/mafia-bot?sort=semver)](https://github.com/username/mafia-bot/releases)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-blueviolet.svg)
 ![Gemini](https://img.shields.io/badge/Gemini-Google-orange.svg)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-red.svg)
@@ -13,8 +15,7 @@
 
 ## 📊 Статистика
 
-- **Останній реліз**: v1.2.3 (2025-09-01)
-- **Завантажено**: 1,500+ разів
+- **Останній реліз**: v1.0 (2025-09-01)
 - **Підтримувані ОС**: Windows, Linux
 
 ---
@@ -47,10 +48,3 @@
 ---
 
 ## 🛠️ Встановлення
-
-1. Клонуйте репозиторій:
-
-   ```bash
-   git clone https://github.com/yourusername/BotMafia.git
-   cd BotMafia
-

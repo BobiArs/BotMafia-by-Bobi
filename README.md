@@ -1,6 +1,6 @@
 # 🎭 BotMafia by Bobi
 
-![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)
+![Python](https://img.shields.io/badge/python-3.13%2B-blue.svg)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-blueviolet.svg)
 ![Gemini](https://img.shields.io/badge/Gemini-Google-orange.svg)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-red.svg)

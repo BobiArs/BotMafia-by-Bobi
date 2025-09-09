@@ -23,7 +23,7 @@ Play against **intelligent AI characters** while honing your skills
 "Telegram:" ![MY_TG](https://t.me/BobiITnew)
 
 
-"WhatsApp:" ![MY_WA](https://api.whatsapp.com/send/?phone=0668896540&text&type=phone_number&app_absent=0)
+"WhatsApp:" ![MY_WA](https://wa.me/0668896540)
 
 
 > [!WARNING]

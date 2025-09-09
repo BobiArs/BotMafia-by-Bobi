@@ -1,0 +1,55 @@
+name: "👻 Bug report!"
+description: "Report a bug to the Developer by Bobi"
+title: "[BUG] "
+labels: ["bug"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **⚠️ WARNING**: Make sure you are using the official version of BotMafia by Bobi..  
+        Do not download files from third-party sites!
+
+  - type: input
+    id: username
+    attributes:
+      label: "Your nickname or username"
+      placeholder: "Наприклад, USER_NONAME_123_small_big"
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Bug description"
+      placeholder: "Describe the problem in detail, what exactly happened, steps to reproduce"
+      required: true
+
+  - type: input
+    id: game_version
+    attributes:
+      label: "Version BotMafia"
+      placeholder: "Example, 1.2.3"
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: "Platform/ОС"
+      options:
+        - "Windows"
+        - "Linux"
+        - "Інше"
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Logs or error messages"
+      placeholder: "Insert log text or screenshots of messages"
+
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: "Additional information (if something hasn't been said yet!)"
+      placeholder: "Будь-які інші деталі, які допоможуть у відтворенні бага"

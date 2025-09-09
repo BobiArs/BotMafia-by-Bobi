@@ -30,9 +30,6 @@
 - `pydantic` — для валідації даних
 - `aiohttp` — для асинхронних HTTP-запитів
 
----
-
-## 🖼️ Логотипи
 
 ![Python](https://www.python.org/community/logos/)
 ![ChatGPT](https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg)

@@ -30,10 +30,10 @@ Play against **intelligent AI characters** while honing your skills
 >
 > You're welcome - > [DISCUSSION](https://github.com/username/repo/discussions) !
 
-
-If there are any issues that you think should be fixed in future updates:
-
-You're welcome - > [NEED_FIX](https://github.com/BobiArs/mafia-bot/issues/new?template=bug_rep.yml) !!!
+> 🛠️ **REPORT ISSUES / REQUEST FIXES**  
+> If you notice any problems or things that should be improved in future updates,  
+> please submit a bug report here: [NEED_FIX](https://github.com/BobiArs/mafia-bot/issues/new?template=bug_rep.yml)  
+> This helps us keep the bot updated and bug-free!
 
 ---
 

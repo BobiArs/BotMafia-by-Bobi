@@ -12,41 +12,41 @@
 ![Gemini](https://img.shields.io/badge/Gemini-Google-orange.svg)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-red.svg)
 
-**Презентую ваш автоматичний ведучий для гри «Мафія»!**  
-Грайте проти **розумних ШІ-персонажів**, відточуючи свої навички
+**Introducing your automatic host for the game "Mafia"!**  
+Play against **intelligent AI characters** while honing your skills
 
-**Підтримуються мови:** 🇺🇦 **Українська** | 🇬🇧 **English** | 🇷🇺 **Русский**
+**Supported languages:** 🇺🇦 **Ukrainian** | 🇬🇧 **English** | 🇷🇺 **Russian**
 
-**Для використання потрібна ліцензія**, яку можна придбати за посиланням нижче:
+**A license is required for use**, which can be purchased at the link below:
 
 
 > [!WARNING]
-> 💬 Маєш питання чи пропозиції?
+> 💬 Do you have any questions or suggestions??
 >
-> Тобі сюди - > [ОБГОВОРЮВАННЯ](https://github.com/username/repo/discussions) !
+> You're welcome - > [DISCUSSION](https://github.com/username/repo/discussions) !
 >
-> Якщо є проблеми, які можна виправити у майбутніх оновленнях:
+> If there are any issues that you think should be fixed in future updates:
 >
-> Тобі сюди - > [ТРЕБА_ФІКС](https://github.com/username/repo/issues) !!!
+> You're welcome - > [NEED_FIX](https://github.com/username/repo/issues) !!!
 
 ---
 
-## 📊 Статистика
+## 📊 Statistics
 
-- **Останній реліз**: v1.0 (2025-09-01)
-- **Підтримувані ОС**: Windows, Linux
+- **Latest release**: v1.0 (2025-09-01)
+- **Supported OS**: Windows, Linux
 
 ---
 
-## 🧩 Підтримувані бібліотеки
+## 🧩 Libraries used in creation (of course not all are here)
 
-- `flask` — для створення веб-сервера
-- `together` — для інтеграції з Together AI
-- `openai` — для інтеграції з OpenAI API
+- `flask` — to create a web server
+- `together` — for integration with Together AI
+- `openai` — for integration with OpenAI API
 - `aiogram` — для роботи з Telegram Bot API
-- `google-generativeai` — для використання моделей Google Gemini
-- `pydantic` — для валідації даних
-- `aiohttp` — для асинхронних HTTP-запитів
+- `google-generativeai` — for using Google Gemini models
+- `pydantic` — for data validation
+- `aiohttp` — for asynchronous HTTP requests
 
 <p align="left">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" width="105" style="margin: 0 20px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,4 +55,4 @@
 
 ---
 
-## 🛠️ Встановлення
+## 🛠️ How to use (install the program) ?

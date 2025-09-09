@@ -32,7 +32,7 @@ Play against **intelligent AI characters** while honing your skills
 > 
 > If there are any issues that you think should be fixed in future updates:
 >
-> You're welcome - > [NEED_FIX](https://github.com/username/repo/issues) !!!
+> You're welcome - > [NEED_FIX][(https://img.shields.io/badge/Report-Bug-red?style=for-the-badge)](https://github.com/BobiArs/mafia-bot/issues/new?template=bug_report.yml) !!!
 
 ---
 

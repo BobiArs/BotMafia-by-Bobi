@@ -17,7 +17,13 @@ Play against **intelligent AI characters** while honing your skills
 
 **Supported languages:** 🇺🇦 **Ukrainian** | 🇬🇧 **English** | 🇷🇺 **Russian**
 
-**A license is required for use**, which can be purchased at the link below:
+**A license is required for use**, which can be purchased at the link below
+(for now you can write to me on social networks, then I'll add a link to the marketplace!!):
+
+"Telegram:" ![MY_TG](https://t.me/BobiITnew)
+
+
+"WhatsApp:" ![MY_WA](https://api.whatsapp.com/send/?phone=0668896540&text&type=phone_number&app_absent=0)
 
 
 > [!WARNING]

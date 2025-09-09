@@ -15,7 +15,7 @@ body:
     id: username
     attributes:
       label: "Your nickname or username"
-      placeholder: "Наприклад, USER_NONAME_123_small_big"
+      placeholder: "Example, USER_NONAME_123_small_big"
       required: true
 
   - type: textarea
@@ -51,5 +51,5 @@ body:
   - type: textarea
     id: additional_info
     attributes:
-      label: "Additional information (if something hasn't been said yet!)"
-      placeholder: "Будь-які інші деталі, які допоможуть у відтворенні бага"
+      label: "Additional information"
+      placeholder: "Any other details that are finished in the reproduction of the bug"

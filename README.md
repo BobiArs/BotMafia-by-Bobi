@@ -28,7 +28,7 @@ Play against **intelligent AI characters** while honing your skills
 > [!TIP]
 > 💬 Do you have any questions or suggestions??
 >
-> You're welcome - > [DISCUSSION](https://github.com/BobiArs/repo/discussions) !
+> You're welcome - > [DISCUSSION](https://github.com/BobiArs/BotMafia-by-Bobi/issues/new?template=offers.yml) !
 
 > 🛠️ **REPORT ISSUES / REQUEST FIXES**
 > 

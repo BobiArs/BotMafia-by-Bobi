@@ -8,14 +8,14 @@ body:
   - type: markdown
     attributes:
       value: |
-        **⚠️ WARNING**: Make sure you are using the official version of BotMafia by Bobi..  
+        **⚠️ WARNING**: Make sure you are using the official version of BotMafia by Bobi 
         Do not download files from third-party sites!
 
   - type: input
     id: username
     attributes:
       label: "Your nickname or username"
-      placeholder: "Example, USER_NONAME_123_small_big"
+      placeholder: "Example, USER_16"
       required: true
 
   - type: textarea
@@ -39,7 +39,6 @@ body:
       options:
         - "Windows"
         - "Linux"
-        - "Інше"
       required: true
 
   - type: textarea

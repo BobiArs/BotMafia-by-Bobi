@@ -44,7 +44,10 @@
 - `pydantic` — для валідації даних
 - `aiohttp` — для асинхронних HTTP-запитів
 
-![ChatGPT](https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Gemini_logo.svg) ![Gemini](https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Gemini_logo.svg) ![DeepSeek](https://upload.wikimedia.org/wikipedia/commons/2/2b/DeepSeek_logo.svg)
+<p align="left">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" width="105" style="margin: 0 20px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/DeepSeek-icon.svg" width="105" style="margin: 0 20px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ---
 

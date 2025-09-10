@@ -74,3 +74,80 @@ Play against **intelligent AI characters** while honing your skills
 ---
 
 ## 🛠️ How to use (install the program) ?
+
+<hr>
+
+<h2>📂 Folder Structure</h2>
+<pre><code>
+MAFIA/
+├─ MAIFA.exe
+├─ BOT_TOKEN_API.env
+├─ license_user.json
+└─ ... (other resources)
+</code></pre>
+
+<hr>
+
+<h2>⚡ How to Use</h2>
+
+<h3>1️⃣ Setup</h3>
+<ol>
+  <li>Download and extract the bot archive.</li>
+  <li>Open <code>BOT_TOKEN_API.env</code> and add:</li>
+</ol>
+
+<pre><code>
+BOT_TOKEN = your_token_Bot_Father_in_TG
+DEEPSEEK_API_KEY = your_key_API_DeepSeek
+GEMINI_API_KEY = your_key_API_Gemini
+OPENAI_API_KEY = your_key_API_ChatGPT
+</code></pre>
+
+<p>🔗 ChatGPT Api key: <a href="https://platform.openai.com/api-keys" target="_blank">  OpenAI</a></p>
+ㅤ
+ㅤ
+<p>🔗 Gemini Api key: <a href="https://aistudio.google.com/u/3/prompts/new_chat" target="_blank">  GEMINI</a></p>
+ㅤ
+ㅤ
+<p>🔗 DeepSeek Api key: <a href="https://platform.deepseek.com/api_keys" target="_blank">  DEEPSEEK</a></p>
+ㅤ
+ㅤ
+
+<h3>2️⃣ License</h3>
+<ul>
+  <li>Add <code>license_user.json</code> or activate via exe.</li>
+  <li>Bot validates license on startup; inactive or blocked → bot exits.</li>
+</ul>
+
+<h3>3️⃣ Run the Bot</h3>
+<ol>
+  <li>Double-click <strong>MAFIA.exe</strong>.</li>
+  <li>Bot initializes Firebase, checks license, and starts polling.</li>
+</ol>
+
+<h3>4️⃣ Game Commands</h3>
+<ul>
+  <li><strong>/start</strong> — choose language and start game.</li>
+  <li>Round end:
+    <ul>
+      <li>✅ Yes — start new round</li>
+      <li>❌ No — reset game, GM inactive</li>
+    </ul>
+  </li>
+  <li>Game phases:
+    <ul>
+      <li>Day — discussion & voting</li>
+      <li>Night — AI-assisted role actions</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>5️⃣ Updates</h3>
+<ul>
+  <li>Bot checks GitHub for the latest release and notifies users.</li>
+</ul>
+
+<hr>
+
+<h3>📞 Support</h3>
+<p>Contact the developer via Telegram for license or troubleshooting.</p>

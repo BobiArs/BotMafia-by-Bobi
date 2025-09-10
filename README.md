@@ -125,22 +125,30 @@ OPENAI_API_KEY = your_key_API_ChatGPT
   <li>Bot initializes Firebase, checks license, and starts polling.</li>
 </ol>
 
-<h3>4️⃣ Menu Commands</h3>
+<h3>4️⃣ Menu Commands (Launcher)</h3>
+<pre>
+╔════════════════════════════════╗
+║      MAFIA BOT by BOBI v1.0   ║
+╠════════════════════════════════╣
+║ 🔐 License: [status]           ║
+║ 🚀 Status: [bot_stat]          ║
+╠════════════════════════════════╣
+║ 1. ▶️ Launch Telegram bot       ║
+║ 2. 🔑 Enter license key         ║
+║ 3. 🔁 Transfer license          ║
+║    ℹ️ See instructions on GitHub ║
+║ 0. ❌ Exit the launcher          ║
+╚════════════════════════════════╝
+</pre>
+
+<p><strong>Note:</strong></p>
 <ul>
-  <li><strong>/start</strong> — choose language and start game.</li>
-  <li>Round end:
-    <ul>
-      <li>✅ Yes — start new round</li>
-      <li>❌ No — reset game, GM inactive</li>
-    </ul>
-  </li>
-  <li>Game phases:
-    <ul>
-      <li>Day — discussion & voting</li>
-      <li>Night — AI-assisted role actions</li>
-    </ul>
-  </li>
+  <li>Choose <strong>1</strong> to start the bot</li>
+  <li>Choose <strong>2</strong> to enter a license key(if necessary!)</li>
+  <li>Choose <strong>3</strong> transfer your license to another device, instructions:</li>
+  <li>Choose <strong>0</strong> to exit the launcher</li>
 </ul>
+
 
 <h3>5️⃣ Updates</h3>
 <ul>
@@ -149,4 +157,4 @@ OPENAI_API_KEY = your_key_API_ChatGPT
 
 <hr>
 
-<h3>🤩 Good time with cymbot (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )</h3>
+<h2>🤩 Have a good time with this bot (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )</h2>

@@ -79,8 +79,8 @@ Play against **intelligent AI characters** while honing your skills
 
 <h2>📂 Folder Structure</h2>
 <pre><code>
-MAFIA/
-├─ MAIFA.exe
+MafiaByBobi/
+├─ MafiaBot.exe
 ├─ BOT_TOKEN_API.env
 ├─ license_user.json
 └─ ... (other resources)
@@ -121,11 +121,11 @@ OPENAI_API_KEY = your_key_API_ChatGPT
 
 <h3>3️⃣ Run the Bot</h3>
 <ol>
-  <li>Double-click <strong>MAFIA.exe</strong>.</li>
+  <li>Double-click <strong>MafiaBot.exe</strong>.</li>
   <li>Bot initializes Firebase, checks license, and starts polling.</li>
 </ol>
 
-<h3>4️⃣ Game Commands</h3>
+<h3>4️⃣ Menu Commands</h3>
 <ul>
   <li><strong>/start</strong> — choose language and start game.</li>
   <li>Round end:
@@ -149,5 +149,4 @@ OPENAI_API_KEY = your_key_API_ChatGPT
 
 <hr>
 
-<h3>📞 Support</h3>
-<p>Contact the developer via Telegram for license or troubleshooting.</p>
+<h3>🤩 Good time with cymbot (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )</h3>

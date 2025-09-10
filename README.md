@@ -103,6 +103,9 @@ GEMINI_API_KEY = your_key_API_Gemini
 OPENAI_API_KEY = your_key_API_ChatGPT
 </code></pre>
 
+<p>🔗 BotFather Api key: <a href="https://docs.radist.online/docs/our-products/radist-web/connections/telegram-bot/instructions-for-creating-and-configuring-a-bot-in-botfather" target="_blank">  INSTRUCTION</a></p>
+ㅤ
+ㅤ
 <p>🔗 ChatGPT Api key: <a href="https://platform.openai.com/api-keys" target="_blank">  OpenAI</a></p>
 ㅤ
 ㅤ

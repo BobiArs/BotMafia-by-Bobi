@@ -51,7 +51,7 @@ Play against **intelligent AI characters** while honing your skills
 
 ## 📊 Statistics
 
-- **Latest release**: v1.0 (2025-10-01)
+- **Latest release**: v1.0 (2025-13-01)
 - **Supported OS**: Windows, Linux
 
 ---

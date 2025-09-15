@@ -124,6 +124,8 @@ OPENAI_API_KEY = your_key_API_ChatGPT
 
 <h3>3️⃣ Run the Bot</h3>
 <ol>
+  <li>(⚠️ ATTENTION, don't forget to put all 3 files(MafiaBot.exe, license_user.json and BOT_TOKEN_API.env) in one folder,
+    otherwise it won't work ❗)</li>
   <li>Double-click <strong>MafiaBot.exe</strong>.</li>
   <li>Bot initializes Firebase, checks license, and starts polling.</li>
 </ol>

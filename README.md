@@ -71,9 +71,6 @@ Play against **intelligent AI characters** while honing your skills
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/DeepSeek-icon.svg" width="105" style="margin: 0 20px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
----
-
-## 🛠️ How to use (install the program) ?
 
 <hr>
 
